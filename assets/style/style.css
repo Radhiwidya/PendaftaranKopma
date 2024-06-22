@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(205, 205, 205);
+}
+.logout {
+    margin-right: 0px;
+}
+.log {
+    text-decoration: none;
+    color: white;
+    font-size: smaller;
+}
